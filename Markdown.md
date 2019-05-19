@@ -201,7 +201,7 @@ Para tornar uma palavra um hiperlink em Markdown basta colocar a palavra entre c
 Quando o hiperlink vai se repetir várias vezes ao longo do texto é possível criar uma palavra de referência para esse hiperlink de forma que se for preciso mudar o endereço de destino isso seja feito em apenas um local do texto e todos os outros serão atualizados. Para isso, basta colocar a palavra que será o hiperlink entre colchetes seguido da palavra de referência também entre colchetes e em algum ponto do texto definir o endereço da referência com a palvra de referência entre colchete seguido de dois pontos e o endereço entre parenteses. Exemplo:
 
 \[Google\]\[referênca\]  
-\[site de busca\][referência]  
+\[site de busca\]\[referência\]  
 
 \[referência\]: (www.google.com)  
 
