@@ -222,7 +222,7 @@ Markdown utiliza alguns caracteres especiais para codificar sua sintaxe, tal com
 
 ### FINALMENTES
 
-Por fim, longe de cobrir todas as possibilidades de formatação que o Markdown propicia na criação de textos acredito que o contéudo aqui apresentado é cobrirá minhas principais necessidades, pelo menos incialmente, de formatação para criação dos meus relatórios de progresso nessa jornada de arpendizado. A medida que novos elementos forem sendo necessário esse texto também será atualizado.
+Por fim, longe de cobrir todas as possibilidades de formatação que o Markdown propicia na criação de textos acredito que o contéudo aqui apresentado cobrirá minhas principais necessidades, pelo menos incialmente, de formatação para criação dos meus relatórios de progresso nessa jornada de arpendizado. A medida que novos elementos forem sendo necessário esse texto também será atualizado.
 
 
 [link1]:(https://en.wikipedia.org/wiki/WYSIWYG)
