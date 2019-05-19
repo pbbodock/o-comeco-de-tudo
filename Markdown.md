@@ -166,7 +166,9 @@ Para adicionar algum elemento em uma lista sem perder a ordem, basta identar a l
 
 \1. Primeiro item.  
 \2. Segundo item.  
+
 'tab' Este é um paragrafo.  
+
 \3. Terceiro item.  
 
 
